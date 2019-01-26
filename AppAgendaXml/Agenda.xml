@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<agenda>
+  <titulo>Agenda Xml</titulo>
+  <contatos>
+    <contato id="1" nome="Diego Ferreira" idade="26" />
+    <contato id="2" nome="Maria Lucia" idade="20" />
+    <contato id="3" nome="João Silva" idade="30" />
+    <contato id="4" nome="Eliana Mary" idade="32" />
+    <contato id="5" nome="Juliana Fernandes" idade="36" />
+    <contato id="5" nome="Mãe" idade="30" />
+    <contato id="6" nome="Edneide" idade="45" />
+    <contato id="7" nome="Diego" idade="26" />
+    <contato id="7" nome="Diego" idade="26" />
+    <contato id="7" nome="Diego" idade="26" />
+    <contato id="7" nome="Diego" idade="26" />
+  </contatos>
+</agenda>
